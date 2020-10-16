@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Questrial';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Questrial'), local('Questrial-Regular'), url(http://themes.googleusercontent.com/static/fonts/questrial/v3/MYWJ4lYm5dbZ1UBuYox79KCWcynf_cDxXwCLxiixG1c.ttf) format('truetype');
+}
+
+/*
+     FILE ARCHIVED ON 10:16:26 Jun 16, 2013 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 18:52:15 Oct 13, 2020.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 4180.33
+  LoadShardBlock: 2190.084 (4)
+  PetaboxLoader3.resolve: 185.758
+  RedisCDXSource: 56.097
+  esindex: 0.007
+  exclusion.robots: 0.131
+  PetaboxLoader3.datanode: 2427.612 (5)
+  CDXLines.iter: 184.557 (4)
+  load_resource: 1492.307
+  exclusion.robots.policy: 0.121
+*/
